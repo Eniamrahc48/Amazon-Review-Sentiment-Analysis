@@ -12,3 +12,4 @@ The datasets considered for this project are the 5-core dataset and the metadata
 * Analysis of reviews using NLP techniques
 * Pre-processing the textual data for modelling
 * Using classification algorithms to classify new reviews.
+* Evaluating the models
