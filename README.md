@@ -17,8 +17,7 @@ The datasets considered for this project are the **5-core** dataset and the **me
 
 The Opinion Lexicox dataset can be found [here](http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
 
-### Project approach :
-* Analysis of reviews using NLP techniques
-* Pre-processing the textual data for modelling
-* Using classification algorithms to classify new reviews.
-* Evaluating the models
+### Repository contains files for
+* Data processing
+* Exploratory data analysis
+* Classification models
