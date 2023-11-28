@@ -17,7 +17,7 @@ The datasets considered for this project are the **5-core** dataset and the **me
 
 The Opinion Lexicox dataset can be found [here](http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
 
-### Repository contains files for
+### Repository contains files regarding
 * Data processing
 * Exploratory data analysis
 * Classification models
